@@ -4,13 +4,21 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2025/09/22/hello-world/"/>
-    <url>/2025/09/22/hello-world/</url>
+    <title>创客日志</title>
+    <link href="/2025/09/22/%E5%88%9B%E5%AE%A2%E6%97%A5%E5%BF%97/"/>
+    <url>/2025/09/22/%E5%88%9B%E5%AE%A2%E6%97%A5%E5%BF%97/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>前言：其实我是想直接走自学赛道的，但是可惜于受到硬件条件的限制，只能在软件上下功夫的我又觉得这样一个半成品实在不符合我的期望，自我感觉难以拿出手，于是便在博客赛道上努力，将其作为保底，希望能得到各位学长的肯定，于是以下我将从自学和博客两个方面去说明我的遇到的问题和解决的方式，尤其是在自学方面我的学习和思考，感谢大家。</p><p>一、博客方面</p><p>​首先是在前面的执行代码的环境上出了问题，我最开始一直是在cmd上进行执行命令，于是在用到eval指令的时候终于出现了问题，反复的报错使我终于意识到我的选择上出现了问题，于是在询问后改正了过来，但是先前的操作却为我后面埋下了巨大的隐患，让我陷入了查bug的深渊。</p><p>​第二个巨大的问题是在我配置github的仓库ssh的地址时出现的问题，我在一开始将其当成了文件的在c盘上的地址，但是配置不成功，在反复浏览csdn后终于让我发现我的地址填写出现了问题，应该是用github上的那串编码进行配置，找到这个bug花费了我小一个小时的时间，属实是崩溃万分。</p><p>​第三个问题是我在进行美化环境的时候，我在一开始使用的是staller的模板，但是对于这个模板的教程我实在是难以理解，找不到对其可以进行编程的教程，于是我在中途又直接改编成了visual的版本，但是这两个好像直接存在冲突，对于config的文件我在编译两次后直接改的面目全非，完全无法运行，在打开映射后的github的博客之后直接变成了白屏，使用出现了严重的障碍，最后我在努力了两个小时之后只能选择全部卸载重来，这次选择了fluid的模板，其具有极为完善的教程终于解决了我的问题，让我清晰的区分开了总体配置和主题配置，实现了对于博客的初步掌握。</p><p>​最后是对于markdown语言的学习，在我看来这个小型的轻量化语言的运用范围相对较小，在博客的文章上具有较大的运用，但是在其他方面我还了解甚少，但是已经能完成初步的语言编写，也算是一个小的进步吧</p>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>OpenCV</tag>
+      
+      <tag>studio visual</tag>
+      
+    </tags>
     
   </entry>
   
